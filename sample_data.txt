@@ -1,0 +1,9 @@
+Hello Team,
+
+Here are the contact details for our project partners:
+Please send the docs to john.doe@example.com and support@company.org.
+You can also reach out to admin@test.com for system errors.
+
+If you have questions, write to john.doe@example.com or info@codealpha.tech.
+
+Thanks!

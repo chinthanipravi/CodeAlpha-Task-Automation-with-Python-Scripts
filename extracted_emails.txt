@@ -1,0 +1,4 @@
+admin@test.com
+info@codealpha.tech
+john.doe@example.com
+support@company.org
